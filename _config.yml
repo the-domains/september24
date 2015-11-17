@@ -1,0 +1,23 @@
+name: september24
+favicon: null
+layout_spectrum: 0.9992000968195498
+typography_spectrum: 0.7617374940309674
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.20619171438738704
+  lightness: 0.6803119541145861
+  saturation: 0.29161527194082737
+  rhythmicContrast: 0.19385050632990897
+purpose: []
