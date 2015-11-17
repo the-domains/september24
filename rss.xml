@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[september24]]></title>
+        <description><![CDATA[september24]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 17 Nov 2015 15:55:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Things I like]]></title>
+            <description><![CDATA[<article><h1>Things I like</h1><p>
+
+Cut glass, white leather, cinnamon.</p></article>]]></description>
+            <link>undefinedthings-i-like/index.html</link>
+            <guid isPermaLink="false">2bc33303-590e-45b7-9bba-697303a6d86f</guid>
+            <pubDate>Tue, 17 Nov 2015 15:54:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
