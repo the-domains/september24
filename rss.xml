@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[september24]]></title>
         <description><![CDATA[september24]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/september24/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 Nov 2015 15:55:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 17 Nov 2015 16:12:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/september24/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/82d28c10-24e8-42bd-899b-33c2d4d95717.jpg">]]></description>
+            <link>https://thegrid.ai/september24/7c3c5a73-e6f4-4dad-97dd-dd6ee3378b77/index.html</link>
+            <guid isPermaLink="false">7c3c5a73-e6f4-4dad-97dd-dd6ee3378b77</guid>
+            <pubDate>Tue, 17 Nov 2015 16:11:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Things I like]]></title>
             <description><![CDATA[<article><h1>Things I like</h1><p>
 
 Cut glass, white leather, cinnamon.</p></article>]]></description>
-            <link>undefinedthings-i-like/index.html</link>
+            <link>https://thegrid.ai/september24/things-i-like/index.html</link>
             <guid isPermaLink="false">2bc33303-590e-45b7-9bba-697303a6d86f</guid>
             <pubDate>Tue, 17 Nov 2015 15:54:37 GMT</pubDate>
         </item>
