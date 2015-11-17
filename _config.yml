@@ -1,7 +1,7 @@
 name: september24
 favicon: null
-layout_spectrum: 0.9992000968195498
-typography_spectrum: 0.7617374940309674
+layout_spectrum: 0.2032
+typography_spectrum: 0.20174
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#896c3a'
   brandStrength: 1
   lightness: 0.6803119541145861
-  saturation: 0.29161527194082737
+  saturation: 0.6875
   rhythmicContrast: 0.19385050632990897
 purpose: []
